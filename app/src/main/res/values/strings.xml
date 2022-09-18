@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Gas Sensor Application</string>
+    <string name="gas_leak">Gas Leak:</string>
+    <string name="detected">Detected</string>
+    <string name="fire_button">Call Fire Department</string>
+    <string name="emergency_button">Call Emergency Contact</string>
+    <string name="at">at 6:23pm</string>
+    <string name="time">Leaking for 10s</string>
+    <string name="sensor_reading">Sensor Reading:</string>
+    <string name="reading">437</string>
+    <string name="leak_detected">Gas Leak Detected</string>
+    <string name="not_detected">Leak Not Detected</string>
+    <string name="graph_title">Gas Reading in the Past Month</string>
+    <string name="title_activity_settings">Settings</string>\
+
+    <string name="action_settings">Settings</string>
+    <string name="time_picker_example">Time Picker Example</string>
+    <string name="time_pick">Pick the time and press save button</string>
+    <string name="time_save">Save</string>
+    <string name="time_selected"></string>
+    <string name="time_current">The Time is:</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="channel_name">Alert Notification</string>
+    <string name="channel_description">Alert Notification</string>
+</resources>
